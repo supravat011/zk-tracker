@@ -29,3 +29,4 @@ Streamlined processes for asset registration, tracking, and verification.
 Scalability to handle a large volume of assets and transactions.
 ZK_RWA_Tracker aims to redefine asset management by offering a secure, transparent, and efficient platform that balances privacy with trust, making it an essential tool for modern industries.
 
+Video: https://github.com/user-attachments/assets/342609b9-1b23-492b-bd65-1bc1f83bd01c
